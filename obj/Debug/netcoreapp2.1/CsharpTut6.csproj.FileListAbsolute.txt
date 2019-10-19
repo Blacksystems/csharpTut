@@ -1,0 +1,11 @@
+C:\Users\Mohsen\source\repos\CsharpTut6\CsharpTut6\bin\Debug\netcoreapp2.1\CsharpTut6.deps.json
+C:\Users\Mohsen\source\repos\CsharpTut6\CsharpTut6\bin\Debug\netcoreapp2.1\CsharpTut6.runtimeconfig.json
+C:\Users\Mohsen\source\repos\CsharpTut6\CsharpTut6\bin\Debug\netcoreapp2.1\CsharpTut6.runtimeconfig.dev.json
+C:\Users\Mohsen\source\repos\CsharpTut6\CsharpTut6\bin\Debug\netcoreapp2.1\CsharpTut6.dll
+C:\Users\Mohsen\source\repos\CsharpTut6\CsharpTut6\bin\Debug\netcoreapp2.1\CsharpTut6.pdb
+C:\Users\Mohsen\source\repos\CsharpTut6\CsharpTut6\obj\Debug\netcoreapp2.1\CsharpTut6.csprojAssemblyReference.cache
+C:\Users\Mohsen\source\repos\CsharpTut6\CsharpTut6\obj\Debug\netcoreapp2.1\CsharpTut6.csproj.CoreCompileInputs.cache
+C:\Users\Mohsen\source\repos\CsharpTut6\CsharpTut6\obj\Debug\netcoreapp2.1\CsharpTut6.AssemblyInfoInputs.cache
+C:\Users\Mohsen\source\repos\CsharpTut6\CsharpTut6\obj\Debug\netcoreapp2.1\CsharpTut6.AssemblyInfo.cs
+C:\Users\Mohsen\source\repos\CsharpTut6\CsharpTut6\obj\Debug\netcoreapp2.1\CsharpTut6.dll
+C:\Users\Mohsen\source\repos\CsharpTut6\CsharpTut6\obj\Debug\netcoreapp2.1\CsharpTut6.pdb
